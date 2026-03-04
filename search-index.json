@@ -1,0 +1,18 @@
+[
+  {
+    "title": "NAP 24",
+    "url": "/produtos/nap-24",
+    "type": "product",
+    "category": "CTO",
+    "keywords": ["nap", "nap 24", "ftth", "fibra"],
+    "sku": "NAP24"
+  },
+  {
+    "title": "Rack Biz",
+    "url": "/produtos/rack-biz",
+    "type": "product",
+    "category": "Racks",
+    "keywords": ["rack", "rack biz", "data center"],
+    "sku": "RACKBIZ"
+  }
+]
