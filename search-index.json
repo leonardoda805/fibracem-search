@@ -19,8 +19,7 @@
     "image": "https://framerusercontent.com/images/IjsvqC8DEoc1v7nldsH3ZO5eQ.png",
     "keywords": [
       "racks-e-acessorios"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Régua PDU Server Bifásica 127–220V",
@@ -30,8 +29,7 @@
     "image": "https://framerusercontent.com/images/Y1XEELbaJr35QTZvMTTLeviKQ.png",
     "keywords": [
       "racks-e-acessorios"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "CDOI BLOX",
@@ -43,7 +41,7 @@
       "EM BREVE",
       "pto"
     ],
-    "sku": ""
+    "flag": "EM BREVE"
   },
   {
     "title": "Caixa Terminal Óptica NAP 24F",
@@ -55,7 +53,7 @@
       "LANÇAMENTO",
       "caixas-de-terminação-óptica"
     ],
-    "sku": ""
+    "flag": "LANÇAMENTO"
   },
   {
     "title": "Plano de fixação de rack parede 19",
@@ -65,8 +63,7 @@
     "image": "https://framerusercontent.com/images/xnNWVJb7vQOKdvfZbeQf08yigY.png",
     "keywords": [
       "racks-e-acessorios"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Guia de Cabo Fechado Estendido para Rack Servidor (L800)",
@@ -76,8 +73,7 @@
     "image": "https://framerusercontent.com/images/168dTTPuM6FmcLcmmoIfJLAcFdY.jpg",
     "keywords": [
       "racks-e-acessorios"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Frente Falsa vazada",
@@ -87,8 +83,7 @@
     "image": "https://framerusercontent.com/images/IuM0jkSwynBVsmFqu1wjttVBE.png",
     "keywords": [
       "racks-e-acessorios"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Bandeja 1U deslizante",
@@ -98,8 +93,7 @@
     "image": "https://framerusercontent.com/images/zRRsw0gNB3balVZYum0xaFRSWw.jpg",
     "keywords": [
       "racks-e-acessorios"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Rack Server FBC DATA CENTER",
@@ -110,9 +104,13 @@
     "keywords": [
       "Linha Server",
       "racks-e-acessorios",
-      "BI0018P00000000"
+      "BI0018P00000000",
+      "44u",
+      "46u",
+      "48u"
     ],
-    "sku": "BI0018P00000000"
+    "sku": "BI0018P00000000",
+    "flag": "Linha Server"
   },
   {
     "title": "Rack Piso Biz",
@@ -124,7 +122,7 @@
       "Linha Server",
       "racks-e-acessorios"
     ],
-    "sku": ""
+    "flag": "Linha Server"
   },
   {
     "title": "Cordão alta potência",
@@ -136,7 +134,7 @@
       "Huber+Suhner",
       "conectividade"
     ],
-    "sku": ""
+    "flag": "Huber+Suhner"
   },
   {
     "title": "Patch Cord",
@@ -146,17 +144,14 @@
     "image": "https://framerusercontent.com/images/z3r7XwSOXPRjToZwyPBLihira8M.png",
     "keywords": [
       "conectividade"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Pigtail Extensão Óptica Conectorizada",
     "url": "/produtos/pigtail-extensão-óptica-conectorizada",
     "type": "product",
-    "category": "",
-    "image": "https://framerusercontent.com/images/HTUYixz18Xs4cAVm5uTT7grdo.jpeg",
-    "keywords": [],
-    "sku": ""
+    "category": "nan",
+    "image": "https://framerusercontent.com/images/HTUYixz18Xs4cAVm5uTT7grdo.jpeg"
   },
   {
     "title": "Service Cable Drop Mini",
@@ -168,7 +163,7 @@
       "Service Cable",
       "conectividade"
     ],
-    "sku": ""
+    "flag": "Service Cable"
   },
   {
     "title": "Cabo Trunk",
@@ -180,16 +175,14 @@
       "Service Cable",
       "cabos-opticos"
     ],
-    "sku": ""
+    "flag": "Service Cable"
   },
   {
     "title": "Cabo Óptico Conectorizado Airbond Drop Mini",
     "url": "/produtos/cabo-óptico-conectorizado-airbond-drop-mini",
     "type": "product",
-    "category": "",
-    "image": "https://framerusercontent.com/images/R8c9WruAOpvEtHi7HBE7qVKbHI.png",
-    "keywords": [],
-    "sku": ""
+    "category": "nan",
+    "image": "https://framerusercontent.com/images/R8c9WruAOpvEtHi7HBE7qVKbHI.png"
   },
   {
     "title": "Bandeja para caixa de emenda óptica 24F Junior",
@@ -199,8 +192,7 @@
     "image": "https://framerusercontent.com/images/xq3Vn8yWkB7FCgmOjIdg9V8MAc.png",
     "keywords": [
       "conjuntos-de-emenda"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Tubo espiral 100 m",
@@ -210,8 +202,7 @@
     "image": "https://framerusercontent.com/images/limM5ikD9aayybC3dvXbdkIrI.png",
     "keywords": [
       "acessorio-para-poste"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Fio de espinar dielétrico FA 40 kgf para cordoalha",
@@ -221,8 +212,7 @@
     "image": "https://framerusercontent.com/images/DEdfYlFzUo1klj5lF8WSiAsbEA.png",
     "keywords": [
       "acessorio-para-poste"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Fecho de aço inox ¾",
@@ -232,8 +222,7 @@
     "image": "https://framerusercontent.com/images/Qu0RTW5xoY4U5frW1nvGSgVzHRE.png",
     "keywords": [
       "acessorio-para-poste"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Caixa Terminal Óptica Pré-conectorizada AIRFIT",
@@ -243,8 +232,7 @@
     "image": "https://framerusercontent.com/images/wR1OLFqyjB8fq7On6lOyi46plY.png",
     "keywords": [
       "caixas-de-terminação-óptica"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Ponto de Terminação Óptica IP Híbrido",
@@ -254,8 +242,7 @@
     "image": "https://framerusercontent.com/images/ReEvmTRrTN84uZkMFhAkfrzHw.png",
     "keywords": [
       "pto"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Ponto de Terminação Óptica  F01",
@@ -265,8 +252,7 @@
     "image": "https://framerusercontent.com/images/pPHUD1nZWECxiFsLMKIzbNHjR0.png",
     "keywords": [
       "pto"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Rack Bank",
@@ -278,7 +264,7 @@
       "Linha Server",
       "racks-e-acessorios"
     ],
-    "sku": ""
+    "flag": "Linha Server"
   },
   {
     "title": "Dio FIT AC",
@@ -290,7 +276,7 @@
       "F2X",
       "distribuidores-opticos"
     ],
-    "sku": ""
+    "flag": "F2X"
   },
   {
     "title": "DIO Mini Splitter",
@@ -300,8 +286,7 @@
     "image": "https://framerusercontent.com/images/e1fEtveROaeR5u4xGlTr6tTSQg.png",
     "keywords": [
       "distribuidores-opticos"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "DIO Compacto",
@@ -311,8 +296,7 @@
     "image": "https://framerusercontent.com/images/hNM7b6BRIaOusNG1RePaQLBO2Q.jpg",
     "keywords": [
       "distribuidores-opticos"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Bandeja 2U de fixação central",
@@ -334,8 +318,7 @@
     "image": "https://framerusercontent.com/images/SBy4PADTag75oYKdChl33YZoOyw.png",
     "keywords": [
       "cabos-opticos"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Cabo óptico drop F8",
@@ -345,8 +328,7 @@
     "image": "https://framerusercontent.com/images/eUjLYSAHxHUIoHEsHMnuohRJOGA.png",
     "keywords": [
       "cabos-opticos"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Cabo óptico AS de alta capacidade de fibras",
@@ -356,8 +338,7 @@
     "image": "https://framerusercontent.com/images/GcEHuAXk5RTmCLtiHECBrp3nGA.png",
     "keywords": [
       "cabos-opticos"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Cabo óptico ACCESS CFOI",
@@ -367,8 +348,7 @@
     "image": "https://framerusercontent.com/images/eRuH1lcVKCcMmgpaunvp4o28rc.png",
     "keywords": [
       "cabos-opticos"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Ponto de Terminação Óptica F04",
@@ -378,8 +358,7 @@
     "image": "https://framerusercontent.com/images/Off8e0gs9k0LMFElvxv03B6AHIE.png",
     "keywords": [
       "pto"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Ponto de Terminação Óptica F12",
@@ -389,8 +368,7 @@
     "image": "https://framerusercontent.com/images/tFHAn7kPKVXlv33rpwZL7QMig.jpg",
     "keywords": [
       "pto"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Ponto de Terminação Óptica Metálico",
@@ -400,8 +378,7 @@
     "image": "https://framerusercontent.com/images/fXgoEP50sHkwQufxsQiKvOC9S8.png",
     "keywords": [
       "pto"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "DIO Compacto Easy",
@@ -411,8 +388,7 @@
     "image": "https://framerusercontent.com/images/thsYy3wnKtA4IA7G4nrNVZgRTM.png",
     "keywords": [
       "distribuidores-opticos"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Ponto de Terminação Óptica FIT",
@@ -422,8 +398,7 @@
     "image": "https://framerusercontent.com/images/MG8cO0FOYUSU3NFxmsR281iPd6o.png",
     "keywords": [
       "pto"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "DIO FIT Plus",
@@ -436,19 +411,21 @@
       "distribuidores-opticos",
       "DI0319S00000000"
     ],
-    "sku": "DI0319S00000000"
+    "sku": "DI0319S00000000",
+    "flag": "F2X"
   },
   {
     "title": "DIO FIT",
     "url": "/produtos/dio-fit-f2x",
     "type": "product",
-    "category": "",
+    "category": "nan",
     "image": "https://framerusercontent.com/images/F2RIVCbYzwmAco8iIyFRlX1ltc.jpg",
     "keywords": [
       "F2X",
       "DI0099S00000000"
     ],
-    "sku": "DI0099S00000000"
+    "sku": "DI0099S00000000",
+    "flag": "F2X"
   },
   {
     "title": "DIO Data Center",
@@ -461,7 +438,8 @@
       "distribuidores-opticos",
       "DI0168S00000000"
     ],
-    "sku": "DI0168S00000000"
+    "sku": "DI0168S00000000",
+    "flag": "F2X"
   },
   {
     "title": "Guia de Cabo Central para Racks Piso e L800",
@@ -471,8 +449,7 @@
     "image": "https://framerusercontent.com/images/10fu6IzT2XxQ4hvAqXJTvLebY.png",
     "keywords": [
       "racks-e-acessorios"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Condensador LSF62-R3",
@@ -484,7 +461,7 @@
       "NOVIDADE",
       "vertiv"
     ],
-    "sku": ""
+    "flag": "NOVIDADE"
   },
   {
     "title": "Vertiv™ Liebert®",
@@ -496,7 +473,7 @@
       "NOVIDADE",
       "vertiv"
     ],
-    "sku": ""
+    "flag": "NOVIDADE"
   },
   {
     "title": "NetSureTM 2100 Series",
@@ -508,7 +485,7 @@
       "NOVIDADE",
       "vertiv"
     ],
-    "sku": ""
+    "flag": "NOVIDADE"
   },
   {
     "title": "Netsure™  731 A41",
@@ -520,7 +497,7 @@
       "NOVIDADE",
       "vertiv"
     ],
-    "sku": ""
+    "flag": "NOVIDADE"
   },
   {
     "title": "POWERIT RPDU",
@@ -532,7 +509,7 @@
       "NOVIDADE",
       "vertiv"
     ],
-    "sku": ""
+    "flag": "NOVIDADE"
   },
   {
     "title": "NetSure™  531",
@@ -544,7 +521,7 @@
       "NOVIDADE",
       "vertiv"
     ],
-    "sku": ""
+    "flag": "NOVIDADE"
   },
   {
     "title": "SmartCabinet ™",
@@ -556,7 +533,7 @@
       "NOVIDADE",
       "vertiv"
     ],
-    "sku": ""
+    "flag": "NOVIDADE"
   },
   {
     "title": "DIO Ianos 144f",
@@ -568,7 +545,7 @@
       "NOVIDADE",
       "huber-suhner"
     ],
-    "sku": ""
+    "flag": "NOVIDADE"
   },
   {
     "title": "DIO FIT MPO",
@@ -581,7 +558,8 @@
       "distribuidores-opticos",
       "DI0298S00000000"
     ],
-    "sku": "DI0298S00000000"
+    "sku": "DI0298S00000000",
+    "flag": "F2X"
   },
   {
     "title": "DIO Articulado",
@@ -594,7 +572,8 @@
       "distribuidores-opticos",
       "CX0004S00000000"
     ],
-    "sku": "CX0004S00000000"
+    "sku": "CX0004S00000000",
+    "flag": "F2X"
   },
   {
     "title": "Caixa de Emenda Óptica Multi 4",
@@ -607,7 +586,8 @@
       "conjuntos-de-emenda",
       "CE0117A0U010000"
     ],
-    "sku": "CE0117A0U010000"
+    "sku": "CE0117A0U010000",
+    "flag": "LANÇAMENTO"
   },
   {
     "title": "Optiloop",
@@ -617,14 +597,13 @@
     "image": "https://framerusercontent.com/images/pRv9oDjVFhS4XtpPOvm3UFxv7A.png",
     "keywords": [
       "acessorio-para-poste"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Reentrada SVT para Caixa de Emenda Óptica",
     "url": "/produtos/reentrada-svt-para-caixa-de-emenda-óptica",
     "type": "product",
-    "category": "",
+    "category": "nan",
     "image": "https://framerusercontent.com/images/etV56P63RaiXXBaRJExJLDey3GU.png",
     "keywords": [
       "KT0190S0000S000"
@@ -640,9 +619,14 @@
     "keywords": [
       "Linha Junior",
       "conjuntos-de-emenda",
-      "CE0060A0U010000"
+      "CE0060A0U010000",
+      "caixa-de-emenda-óptica-24-fibras-dual-svt-junior",
+      "caixa-de-emenda-óptica-48-fibras-dual-svt-junior",
+      "caixa-de-emenda-óptica-72-fibras-dual-svt-junior",
+      "caixa-de-emenda-óptica-96-fibras-dual-svt-junior"
     ],
-    "sku": "CE0060A0U010000"
+    "sku": "CE0060A0U010000",
+    "flag": "Linha Junior"
   },
   {
     "title": "Caixa Terminal Óptica NAP POP",
@@ -655,7 +639,8 @@
       "caixas-de-terminação-óptica",
       "CT0379S0M060000"
     ],
-    "sku": "CT0379S0M060000"
+    "sku": "CT0379S0M060000",
+    "flag": "Linha Junior"
   },
   {
     "title": "Caixa de Emenda Óptica 24 a 96 Fibras SVT",
@@ -679,9 +664,15 @@
       "CEO ceo Caixa de Emenda Óptica Jumbo SVT",
       "LANÇAMENTO",
       "conjuntos-de-emenda",
-      "CE0103A0U010000"
+      "CE0103A0U010000",
+      "fibras-24",
+      "fibras-48",
+      "fibras-72",
+      "fibras-96",
+      "fibras-144"
     ],
-    "sku": "CE0103A0U010000"
+    "sku": "CE0103A0U010000",
+    "flag": "LANÇAMENTO"
   },
   {
     "title": "Caixa de Emenda Óptica OPTIMAL JUNIOR",
@@ -694,7 +685,8 @@
       "caixas-de-terminação-óptica",
       "CE0109A0U010000"
     ],
-    "sku": "CE0109A0U010000"
+    "sku": "CE0109A0U010000",
+    "flag": "Linha Junior"
   },
   {
     "title": "CTO-P NAP POP Precon",
@@ -740,8 +732,7 @@
     "image": "https://framerusercontent.com/images/ceACLRc0DZLaD0KJ72p6DopPgU.png",
     "keywords": [
       "caixas-de-terminação-óptica"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Caixa de Emenda Óptica 36 a 144 Fibras Optimal SVM",
@@ -802,7 +793,8 @@
       "caixas-de-terminação-óptica",
       "CE0044A0M040000"
     ],
-    "sku": "CE0044A0M040000"
+    "sku": "CE0044A0M040000",
+    "flag": "Linha Junior"
   },
   {
     "title": "Caixa Terminal Óptica CTO 24 a 72 Fibras Multi 8 Junior",
@@ -814,7 +806,7 @@
       "Linha Junior",
       "conjuntos-de-emenda"
     ],
-    "sku": ""
+    "flag": "Linha Junior"
   },
   {
     "title": "Caixa de Emenda Óptica 36 a 216 Fibras Jumbo SVM",
@@ -861,7 +853,10 @@
     "image": "https://framerusercontent.com/images/zoruW3yHiY2wOdLM5sWGbePRrI.png",
     "keywords": [
       "caixas-de-terminação-óptica",
-      "000002"
+      "000002",
+      "barramento-balanceado",
+      "barramento-desbalanceado",
+      "conector-airbond"
     ],
     "sku": "000002"
   },
@@ -873,7 +868,11 @@
     "image": "https://framerusercontent.com/images/zCZBJ5RkpsH81uoPU87kMvDU9Jk.png",
     "keywords": [
       "caixas-de-terminação-óptica",
-      "000003"
+      "000003",
+      "diâmetro-da-entrada-2-entradas-de-8-a-12mm",
+      "diâmetro-da-entrada-4-entradas-de-5-a-8mm",
+      "conector-airbond",
+      "conector-primebond"
     ],
     "sku": "000003"
   },
@@ -885,8 +884,7 @@
     "image": "https://framerusercontent.com/images/8ZvBxwnDpTQBu1HbhGPcFgLzVI.png",
     "keywords": [
       "conjuntos-de-emenda"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Tubo de Emenda Óptico NG",
@@ -896,8 +894,7 @@
     "image": "https://framerusercontent.com/images/7dzV0R6gf6rTdfVMgqZ8EnlR040.png",
     "keywords": [
       "conjuntos-de-emenda"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Suporte Aéreo para Conjunto de Emenda Óptica",
@@ -907,8 +904,7 @@
     "image": "https://framerusercontent.com/images/rr14fbZSh5iyZtJ7Bf2J5iTuuE.png",
     "keywords": [
       "conjuntos-de-emenda"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Reentrada SVT para Caixa de Emenda Óptica",
@@ -918,8 +914,7 @@
     "image": "https://framerusercontent.com/images/uOHpaRgDiUS3GaiblxbFhQsg8Nk.png",
     "keywords": [
       "conjuntos-de-emenda"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Reentrada SVT Manta Zipada para Caixa de Emenda Óptica",
@@ -929,8 +924,7 @@
     "image": "https://framerusercontent.com/images/H4l1PIUtJlp9kSMKQV4lbHP188U.png",
     "keywords": [
       "conjuntos-de-emenda"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Reentrada SVM para Caixa de Emenda Óptica",
@@ -940,8 +934,7 @@
     "image": "https://framerusercontent.com/images/VIETioSrU9PvdAaMd48O6AHnoY.png",
     "keywords": [
       "conjuntos-de-emenda"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Protetor de Emenda Óptica",
@@ -951,8 +944,7 @@
     "image": "https://framerusercontent.com/images/S8j6vkneVorxsjZArdANX1yMzb0.png",
     "keywords": [
       "conjuntos-de-emenda"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Derivador SVM",
@@ -962,8 +954,7 @@
     "image": "https://framerusercontent.com/images/3pZWLVkXU6l8cMnoCosLwdZxJY.jpg",
     "keywords": [
       "conjuntos-de-emenda"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Derivador para Caixa de Emenda Óptica SVT Mini",
@@ -973,8 +964,7 @@
     "image": "https://framerusercontent.com/images/5JhvHaifs7K6FrwUWqY7qTB5tM.png",
     "keywords": [
       "conjuntos-de-emenda"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Derivador para Caixa de Emenda Óptica SVT",
@@ -984,8 +974,7 @@
     "image": "https://framerusercontent.com/images/ZpZxsuRXaLT6D004lQ3uUxspv98.png",
     "keywords": [
       "conjuntos-de-emenda"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Derivador Manta Zipada para Caixa de Emenda Óptica SVT",
@@ -995,8 +984,7 @@
     "image": "https://framerusercontent.com/images/jOCsly8mOv3jEiRk565u04Vr4.png",
     "keywords": [
       "conjuntos-de-emenda"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Cordoalha dielétrica FA",
@@ -1006,8 +994,7 @@
     "image": "https://framerusercontent.com/images/XGNRfkQ6W3fv70yB03AgA86KNA.png",
     "keywords": [
       "cordoalha-dielétrica"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Cordão óptico duplex",
@@ -1017,8 +1004,7 @@
     "image": "https://framerusercontent.com/images/q7BCnjS9xSsUA8feSwVfziVHlxc.png",
     "keywords": [
       "conectividade"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Conector PRÉ-POLIDO Rosca",
@@ -1028,8 +1014,7 @@
     "image": "https://framerusercontent.com/images/MSMQHdZk54flVvRP3EbRjr2BIc8.jpg",
     "keywords": [
       "conectividade"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Mini Rack Pop",
@@ -1040,9 +1025,12 @@
     "keywords": [
       "LANÇAMENTO",
       "racks-e-acessorios",
-      "BA0064S00000000"
+      "BA0064S00000000",
+      "sku-ba0064s00000000-bracket-parede-pop-19-5u-p370",
+      "ba0065s00000000-bracket-parede-pop-19-3u-p370"
     ],
-    "sku": "BA0064S00000000"
+    "sku": "BA0064S00000000",
+    "flag": "LANÇAMENTO"
   },
   {
     "title": "Shelter FBC Robust",
@@ -1055,7 +1043,8 @@
       "racks-e-acessorios",
       "BI0139O00000000"
     ],
-    "sku": "BI0139O00000000"
+    "sku": "BI0139O00000000",
+    "flag": "Personalizável"
   },
   {
     "title": "Rack Aberto AC",
@@ -1065,7 +1054,9 @@
     "image": "https://framerusercontent.com/images/h3ByOnrNfrwKoYDoaXyri1WNUrk.jpg",
     "keywords": [
       "racks-e-acessorios",
-      "BI0067S00000000"
+      "BI0067S00000000",
+      "36u",
+      "44u"
     ],
     "sku": "BI0067S00000000"
   },
@@ -1101,7 +1092,10 @@
     "image": "https://framerusercontent.com/images/mTAHgnM2BXrLQUML4QmoGhOHpGI.jpg",
     "keywords": [
       "racks-e-acessorios",
-      "BA0046S00001000"
+      "BA0046S00001000",
+      "6u",
+      "12u",
+      "16u"
     ],
     "sku": "BA0046S00001000"
   },
@@ -1125,7 +1119,8 @@
     "image": "https://framerusercontent.com/images/po9MdDxYHHaFfGMSCqcRY4HY.png",
     "keywords": [
       "huber-suhner",
-      "BI0083S00001000"
+      "BI0083S00001000",
+      "46u"
     ],
     "sku": "BI0083S00001000"
   },
@@ -1137,7 +1132,8 @@
     "image": "https://framerusercontent.com/images/D8BuG3r3sYjF1GbPCzWU8D9uOw.jpg",
     "keywords": [
       "racks-e-acessorios",
-      "BI0110S00001000"
+      "BI0110S00001000",
+      "46u"
     ],
     "sku": "BI0110S00001000"
   },
@@ -1149,7 +1145,8 @@
     "image": "https://framerusercontent.com/images/mAwyFs4CIhn40GANhtbUKqWMEcA.jpg",
     "keywords": [
       "racks-e-acessorios",
-      "BI0111S00001000"
+      "BI0111S00001000",
+      "46u"
     ],
     "sku": "BI0111S00001000"
   },
@@ -1188,7 +1185,8 @@
       "racks-e-acessorios",
       "BI0080C00000000"
     ],
-    "sku": "BI0080C00000000"
+    "sku": "BI0080C00000000",
+    "flag": "Linha Server"
   },
   {
     "title": "Mini Rack Leve",
@@ -1201,7 +1199,8 @@
       "racks-e-acessorios",
       "BA0049PS0000000"
     ],
-    "sku": "BA0049PS0000000"
+    "sku": "BA0049PS0000000",
+    "flag": "CFTV"
   },
   {
     "title": "Rack Coluna Duplo",
@@ -1223,7 +1222,11 @@
     "image": "https://framerusercontent.com/images/XYUTEW5GdtVUOSWbAAIsZFuh7w.png",
     "keywords": [
       "racks-e-acessorios",
-      "BI0076S00000000"
+      "BI0076S00000000",
+      "24u",
+      "28u",
+      "36u",
+      "44u"
     ],
     "sku": "BI0076S00000000"
   },
@@ -1283,8 +1286,7 @@
     "image": "https://framerusercontent.com/images/bGPBtTLaBMvoePeyuSGEuDyAucs.jpg",
     "keywords": [
       "racks-e-acessorios"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Bandeja 1U com sistema de ventilação",
@@ -1330,8 +1332,7 @@
     "image": "https://framerusercontent.com/images/yRCp3Q2ejueXMkfrBs4V6plehI.png",
     "keywords": [
       "racks-e-acessorios"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Kit de Aterramento",
@@ -1341,8 +1342,7 @@
     "image": "https://framerusercontent.com/images/n9SWGz8zNbRofmj0HK33M8u0Oys.png",
     "keywords": [
       "racks-e-acessorios"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Guia de Cabo Vertical para Rack Coluna",
@@ -1364,8 +1364,7 @@
     "image": "https://framerusercontent.com/images/xp4kahKOnxgk89AHHvEK0Qs76gI.png",
     "keywords": [
       "racks-e-acessorios"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Guia de Cabo para Rack Coluna Plus Desmontável",
@@ -1375,8 +1374,7 @@
     "image": "https://framerusercontent.com/images/Rotj0T2q2oDOlcNhSlVAJscHhEY.png",
     "keywords": [
       "racks-e-acessorios"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Guia de Cabo Horizontal Com Aba",
@@ -1386,8 +1384,7 @@
     "image": "https://framerusercontent.com/images/XAvIPZgDEpqw8nuInggEicl2OFs.png",
     "keywords": [
       "racks-e-acessorios"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Guia de Cabo Horizontal Fechada",
@@ -1397,8 +1394,7 @@
     "image": "https://framerusercontent.com/images/5YnCUyhHl9n8Gy0cEAozxoph4.png",
     "keywords": [
       "racks-e-acessorios"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Guia de Cabo 1U ALTA DENSIDADE",
@@ -1420,8 +1416,7 @@
     "image": "https://framerusercontent.com/images/8wGezl9zL1Gav6U3CiSQ7P27FE.png",
     "keywords": [
       "racks-e-acessorios"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "RACK OUTDOOR AÇO",
@@ -1443,8 +1438,7 @@
     "image": "https://framerusercontent.com/images/ueNhuNf3kbfTM8ThzbSTWgGMn8.png",
     "keywords": [
       "racks-e-acessorios"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Cabo óptico conectorizado airbond mini drop",
@@ -1454,8 +1448,7 @@
     "image": "https://framerusercontent.com/images/0pARYpLnzPyBvIDUHs6D18pvPI.png",
     "keywords": [
       "conectividade"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Caixa de Emenda Óptica 24 a 96 Fibras Dual",
@@ -1465,7 +1458,11 @@
     "image": "https://framerusercontent.com/images/1emP6dSlYQu5Bwi6Oef8hVFRR4.png",
     "keywords": [
       "conjuntos-de-emenda",
-      "CE0020A0U010000"
+      "CE0020A0U010000",
+      "fibras-24",
+      "fibras-48",
+      "fibras-72",
+      "fibras-96"
     ],
     "sku": "CE0020A0U010000"
   },
@@ -1473,7 +1470,7 @@
     "title": "Bandeja Plástica para Acomodação de Tubo Loose",
     "url": "/produtos/bandeja-plástica-para-acomodação-de-tubo-loose",
     "type": "product",
-    "category": "",
+    "category": "nan",
     "image": "https://framerusercontent.com/images/qQCiFdVFluTyv9xjMgh0vRolYlc.png",
     "keywords": [
       "AC0003S00002000"
@@ -1508,7 +1505,7 @@
     "title": "Bandeja Metálica para Acomodação de Tubo Loose Junior",
     "url": "/produtos/bandeja-metálica-para-acomodação-de-tubo-loose-junior",
     "type": "product",
-    "category": "",
+    "category": "nan",
     "image": "https://framerusercontent.com/images/6Whp3D7o3G9KCpFgUmzK45wVc8.png",
     "keywords": [
       "AC0008S0000S000"
@@ -1574,7 +1571,8 @@
       "distribuidores-opticos",
       "DI0513S00000000"
     ],
-    "sku": "DI0513S00000000"
+    "sku": "DI0513S00000000",
+    "flag": "CFTV"
   },
   {
     "title": "DIO FTTA Connect",
@@ -1611,7 +1609,8 @@
       "distribuidores-opticos",
       "DI0325S00000000"
     ],
-    "sku": "DI0325S00000000"
+    "sku": "DI0325S00000000",
+    "flag": "F2X"
   },
   {
     "title": "DIO FIT Plus",
@@ -1622,9 +1621,12 @@
     "keywords": [
       "F2X",
       "distribuidores-opticos",
-      "CX0030S00000000"
+      "CX0030S00000000",
+      "capacidade-simplex",
+      "fibras-36"
     ],
-    "sku": "CX0030S00000000"
+    "sku": "CX0030S00000000",
+    "flag": "F2X"
   },
   {
     "title": "DIO FIT Cristal",
@@ -1637,7 +1639,8 @@
       "distribuidores-opticos",
       "DI0010S00000000"
     ],
-    "sku": "DI0010S00000000"
+    "sku": "DI0010S00000000",
+    "flag": "F2X"
   },
   {
     "title": "DIO FIT",
@@ -1650,7 +1653,8 @@
       "distribuidores-opticos",
       "CX0019S00000000"
     ],
-    "sku": "CX0019S00000000"
+    "sku": "CX0019S00000000",
+    "flag": "F2X"
   },
   {
     "title": "DIO FBC Multi",
@@ -1687,7 +1691,8 @@
       "distribuidores-opticos",
       "DI0182S00000000"
     ],
-    "sku": "DI0182S00000000"
+    "sku": "DI0182S00000000",
+    "flag": "F2X"
   },
   {
     "title": "DIO Telecom",
@@ -1705,7 +1710,7 @@
     "title": "Box para Splitter SC APC",
     "url": "/produtos/box-para-splitter-sc-apc",
     "type": "product",
-    "category": "",
+    "category": "nan",
     "image": "https://framerusercontent.com/images/6VmZp9NHZ6m2st0AQDqpxgKeeHQ.png",
     "keywords": [
       "CX0070S00000000"
@@ -1744,8 +1749,7 @@
     "image": "https://framerusercontent.com/images/YxPt0bv2N7momTyMDu44wVy8YnI.png",
     "keywords": [
       "conectividade"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Splitter Óptico PLC",
@@ -1755,8 +1759,7 @@
     "image": "https://framerusercontent.com/images/WR3xZMExR6UFD89os2g3sMlzw.jpg",
     "keywords": [
       "conectividade"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Service Cable Drop F8 SM",
@@ -1768,7 +1771,7 @@
       "Service cable",
       "conectividade"
     ],
-    "sku": ""
+    "flag": "Service cable"
   },
   {
     "title": "Fibra de Lançamento",
@@ -1778,8 +1781,7 @@
     "image": "https://framerusercontent.com/images/CelpJBKEZuV2jBvDzieNWP6b8k.png",
     "keywords": [
       "conectividade"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Fibra condicionadora de modo OM1 e OM2",
@@ -1789,8 +1791,7 @@
     "image": "https://framerusercontent.com/images/7RWnBmoxMFd8yyB6cMhewV8dyI.png",
     "keywords": [
       "conectividade"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Extensão óptica conectorizada",
@@ -1800,8 +1801,7 @@
     "image": "https://framerusercontent.com/images/ROYCsD56safG230D4IZoWB5dZNs.png",
     "keywords": [
       "conectividade"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Cordão óptico simplex",
@@ -1811,8 +1811,7 @@
     "image": "https://framerusercontent.com/images/6A6eeH5qpfADGgGrSuLSpaZCTY.png",
     "keywords": [
       "conectividade"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Cordão óptico MPO",
@@ -1822,8 +1821,7 @@
     "image": "https://framerusercontent.com/images/cBs5DSR0fD0jI6tNSPgsN4HR3g.png",
     "keywords": [
       "conectividade"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Cordão de teste Airbond",
@@ -1833,8 +1831,7 @@
     "image": "https://framerusercontent.com/images/jaEHn1JWspD2evLX8JO3Hlnc.png",
     "keywords": [
       "conectividade"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Conector Precon Airbond Fast Connector",
@@ -1844,8 +1841,7 @@
     "image": "https://framerusercontent.com/images/w042WNGYu0Pq8eJOYdbIXqP2c.png",
     "keywords": [
       "conectividade"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Cabo Óptico Drop F8 Fit",
@@ -1855,8 +1851,7 @@
     "image": "https://framerusercontent.com/images/2OocPdmxLtNmq4aa9KRSNLuhiM.png",
     "keywords": [
       "cabos-opticos"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Cabo Óptico Autossustentado ASU",
@@ -1865,9 +1860,11 @@
     "category": "cabos-opticos",
     "image": "https://framerusercontent.com/images/5i1IWV9T7uNdkR5n8LiGNvctyk.png",
     "keywords": [
-      "cabos-opticos"
-    ],
-    "sku": ""
+      "cabos-opticos",
+      "80-sm",
+      "120-sm",
+      "200-sm"
+    ]
   },
   {
     "title": "Cabo Óptico Autossustentado ASU 80 FIT SM 1 a 12 Fibras",
@@ -1877,17 +1874,14 @@
     "image": "https://framerusercontent.com/images/ebSFntI45qAJQxHsft1cAhTEPH8.jpg",
     "keywords": [
       "cabos-opticos"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Cabo Óptico Drop F8",
     "url": "/produtos/cabo-óptico-drop-f8-sm-fibras",
     "type": "product",
-    "category": "",
-    "image": "https://framerusercontent.com/images/sEXeP76SVXrv3cQJ80oDstV4mdI.png",
-    "keywords": [],
-    "sku": ""
+    "category": "nan",
+    "image": "https://framerusercontent.com/images/sEXeP76SVXrv3cQJ80oDstV4mdI.png"
   },
   {
     "title": "Cabo Óptico IP Híbrido",
@@ -1897,8 +1891,7 @@
     "image": "https://framerusercontent.com/images/FC32gKeiPuxqhMbQePw5yQQFIbs.png",
     "keywords": [
       "cabos-opticos"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Cabo Óptico Low Friction Indoor",
@@ -1908,8 +1901,7 @@
     "image": "https://framerusercontent.com/images/mbtd9MYnkeFjEaukwKDsRgQB6Y.png",
     "keywords": [
       "cabos-opticos"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Cabo autossustentado ASU 120 FIT",
@@ -1919,8 +1911,7 @@
     "image": "https://framerusercontent.com/images/mEK2KHgV58I2ztAHgVskbSvrDw.png",
     "keywords": [
       "cabos-opticos"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Parafuso M12 x 35mm Frances C Porca ZF",
@@ -1930,8 +1921,7 @@
     "image": "https://framerusercontent.com/images/Qb1r2sExQM1ZEwRhLwlK180oHU.png",
     "keywords": [
       "acessorio-para-poste"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Reserva de cabos ópticos click",
@@ -1941,8 +1931,7 @@
     "image": "https://framerusercontent.com/images/ZZhp6YuIA2Vf3v3yxYxOopdWw.png",
     "keywords": [
       "acessorio-para-poste"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Plaqueta de identificação cabo óptico",
@@ -1952,8 +1941,7 @@
     "image": "https://framerusercontent.com/images/JXuvjS4F3R2mYoRDDtBC9YSjK8.png",
     "keywords": [
       "acessorio-para-poste"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Tubo de Emenda Mini",
@@ -1963,8 +1951,7 @@
     "image": "https://framerusercontent.com/images/IaxrQpPHn5fumjUJyy4EaWEqS8.png",
     "keywords": [
       "conjuntos-de-emenda"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Cordoalha dielétrica FRP 1000kgf 6,4mm",
@@ -1974,8 +1961,7 @@
     "image": "https://framerusercontent.com/images/rJ9PbMCbq8jaksUkbG7pSgw6vs.png",
     "keywords": [
       "cordoalha-dielétrica"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Abraçadeira BAP FBC",
@@ -1985,8 +1971,7 @@
     "image": "https://framerusercontent.com/images/CiZQHbfdJNNzfO6lQwx9EvNX7Fc.jpg",
     "keywords": [
       "acessorio-para-poste"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Esticador de Cunha para Cabo Drop Mini",
@@ -1996,8 +1981,7 @@
     "image": "https://framerusercontent.com/images/fUvz9uoBogxtabtR6bf7w9yMQo.png",
     "keywords": [
       "acessorio-para-poste"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Fecho de aço inox",
@@ -2007,8 +1991,7 @@
     "image": "https://framerusercontent.com/images/Qu0RTW5xoY4U5frW1nvGSgVzHRE.png",
     "keywords": [
       "acessorio-para-poste"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Fita de aço inox",
@@ -2018,8 +2001,7 @@
     "image": "https://framerusercontent.com/images/OmcAMxmMAM0bHY6sI6JQmYVFPU.png",
     "keywords": [
       "acessorio-para-poste"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Grampo de ancoragem corpo plástico",
@@ -2029,8 +2011,7 @@
     "image": "https://framerusercontent.com/images/AQp72L2NZnXz80eAHrkxtzWJ1c.png",
     "keywords": [
       "acessorio-para-poste"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Isolador para cabo drop",
@@ -2040,8 +2021,7 @@
     "image": "https://framerusercontent.com/images/GT5ZAFrOnmhwEY2jUsOaYsGW6I.png",
     "keywords": [
       "acessorio-para-poste"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Kit de instalação aéreo",
@@ -2051,8 +2031,7 @@
     "image": "https://framerusercontent.com/images/gYXwWvEoUBeDSoluQiSgbfZqik.png",
     "keywords": [
       "acessorio-para-poste"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Porca olhal reto M12",
@@ -2062,8 +2041,7 @@
     "image": "https://framerusercontent.com/images/cVKfDNgG5aY6dyBbSB8dQnRSLKQ.png",
     "keywords": [
       "acessorio-para-poste"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Suporte BAP",
@@ -2073,8 +2051,7 @@
     "image": "https://framerusercontent.com/images/Kl4hDS7XNtAtcR3scKunvCSBhQU.png",
     "keywords": [
       "acessorio-para-poste"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Alça pré-fromada para cordoalha dielétrica",
@@ -2084,8 +2061,7 @@
     "image": "https://framerusercontent.com/images/np4rZRjimM3rwpJDhFOO9Q9CvwM.jpg",
     "keywords": [
       "cordoalha-dielétrica"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Esticador para Cabo Drop Mini",
@@ -2095,8 +2071,7 @@
     "image": "https://framerusercontent.com/images/J9ILng8s3FmDK5V79MULlt2rVU.png",
     "keywords": [
       "acessorio-para-poste"
-    ],
-    "sku": ""
+    ]
   },
   {
     "title": "Grampo de Suspensão Volare",
@@ -2106,7 +2081,9 @@
     "image": "https://framerusercontent.com/images/T7gykjNqrFGuYWUzbal7iuNECU.png",
     "keywords": [
       "acessorio-para-poste",
-      "AP0053S00000000"
+      "AP0053S00000000",
+      "grampo-de-suspensão-volare-para-cabo-de-11-a-13-mm-14-a-16-mm",
+      "grampo-de-suspensão-volare-para-cabos-de-5-a-6-mm-7-a-10-mm"
     ],
     "sku": "AP0053S00000000"
   },
@@ -2117,9 +2094,11 @@
     "category": "acessorio-para-poste",
     "image": "https://framerusercontent.com/images/C7UMWTwpo0U4EhUAfSpqcg8Lo.png",
     "keywords": [
-      "acessorio-para-poste"
-    ],
-    "sku": ""
+      "acessorio-para-poste",
+      "amortecedor-de-vibração-preformado-6-4-8-3-m",
+      "amortecedor-de-vibração-preformado-8-3-11-7-mm",
+      "amortecedor-de-vibração-preformado-11-7-14-3-mm"
+    ]
   },
   {
     "title": "Supa Volare",
@@ -2141,9 +2120,12 @@
     "image": "https://framerusercontent.com/images/9i6hBfmmdL96gduS2udT2Ro.png",
     "keywords": [
       "GRAMPO",
-      "acessorio-para-poste"
-    ],
-    "sku": ""
+      "acessorio-para-poste",
+      "diâmetro-05-00-a-07-00mm",
+      "diâmetro-07-00-a-09-00mm",
+      "diâmetro-09-00-a-11-00mm",
+      "diâmetro-11-00-a-13-00mm"
+    ]
   },
   {
     "title": "Reserva Técnica Universal FBC",
