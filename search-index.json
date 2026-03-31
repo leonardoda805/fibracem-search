@@ -2150,5 +2150,54 @@
       "PC0027R005M0000"
     ],
     "sku": "PC0027R005M0000"
+  },
+  {
+    "title": "Rack EDGE COMPUTING",
+    "url": "/produtos/rack-edge-computing",
+    "type": "product",
+    "category": "racks-e-acessorios",
+    "image": "https://framerusercontent.com/images/5KfAILdOvDzXGAkwIJ2UQ2oaDbM.png",
+    "keywords": [
+      "NOVIDADE",
+      "racks-e-acessorios",
+      "BI0193S00001000"
+    ],
+    "sku": "BI0193S00001000",
+    "flag": "NOVIDADE"
+  },
+  {
+    "title": "Guia de Cabo Aberta",
+    "url": "/produtos/guia-de-cabo-aberta",
+    "type": "product",
+    "category": "racks-e-acessorios",
+    "image": "https://framerusercontent.com/images/4deW2zdcouw4VnavIJM1lJFfG70.png",
+    "keywords": [
+      "racks-e-acessorios",
+      "caixa-de-emenda-óptica-multi-4-96-ou-144-fibras-svm",
+      "caixa-de-emenda-óptica-multi-4-72-ou-108-fibras-svm",
+      "caixa-de-emenda-óptica-multi-4-48-ou-72-fibras-svm",
+      "caixa-de-emenda-óptica-multi-4-24-ou-36-fibras-svm",
+      "caixa-de-emenda-óptica-96-fibras-dual-svm-(2-entradas-6-5-a-12-mm)-junior"
+    ]
+  },
+  {
+    "title": "DIO FTTA Connect",
+    "url": "/produtos/sdadasdfsasefsd",
+    "type": "product",
+    "category": "distribuidores-opticos",
+    "image": "https://framerusercontent.com/images/kiMsE61lcjMcAOWeNfhI9m2x4.png",
+    "keywords": [
+      "distribuidores-opticos"
+    ]
+  },
+  {
+    "title": "Cabo Óptico Drop F8 FIT",
+    "url": "/produtos/sss",
+    "type": "product",
+    "category": "cabos-opticos",
+    "image": "https://framerusercontent.com/images/BgS8T3EZxZaNxHd4hmuY7wYaRc.jpg",
+    "keywords": [
+      "cabos-opticos"
+    ]
   }
 ]
