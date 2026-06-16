@@ -2625,15 +2625,13 @@
       "Cabo óptico autossustentado SM AS 80 144 Fibras"
     ]
   },
-  {
-    "title": "Cabo óptico autossustentado ASU 200 SM",
-    "url": "",
-    "type": "product",
-    "category": "",
-    "image": "",
-    "keywords": [
-      "Cabo óptico autossustentado ASU 200 SM"
-	"Cabo ASU 200 SM"
-    ]
-  }
-]
+{
+  "title": "Cabo óptico autossustentado ASU 200 SM",
+  "url": "",
+  "type": "product",
+  "category": "",
+  "image": "",
+  "keywords": [
+    "Cabo óptico autossustentado ASU 200 SM"
+  ]
+}
